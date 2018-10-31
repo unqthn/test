@@ -1,0 +1,16 @@
+line-bot-sdk
+flask
+gunicorn
+psycopg2
+lxml
+PyMySQL
+requests
+beautifulsoup4
+bs4
+pycparser
+line-bot-sdk
+simplejson
+numpy
+wordcutpy
+pythainlp
+
