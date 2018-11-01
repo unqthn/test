@@ -61,8 +61,8 @@ except:
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('Pdt/ED1rOmznxrHueW+DLuKS/7jbqjwR+mU/vUyRBNxxmcmF+MD3omp03ROculxF2ziMKLIo5BwRWT9dwSKMMzApjKgPQCrVuF5yWkwcy9YL6B0Q4Turo9l8ydmbU59GNPT/8c16RspQQ31i4X1V/gdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('0802071f6bf26e330f0c61b392b0a5e2')
+line_bot_api = LineBotApi('EALVAPTdKsS8u1yx6X4R14kZHwsk6hbbdv1hiQ0VIKbBY0JaKKDG9wSfE5UwtmAUdZEyeZvzPgWBbpEufv0cC7r6lGgVd/eYo9voN8CcWh7TifcYS4FI/T0sj0DcuahCgk8vOTWlRcSHBZor1/PnqAdB04t89/1O/w1cDnyilFU=')
+handler = WebhookHandler('5015ebe1a54fc980fc97b098d68ea35a')
 
 mode = 0
 #
